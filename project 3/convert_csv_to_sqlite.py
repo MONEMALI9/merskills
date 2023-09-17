@@ -29,9 +29,9 @@ def csv_to_sqlite(csv_file, db_file, table_name):
     conn.close()
 
 if __name__ == "__main__":
-    csv_file = "data\diabetes.csv"  # Replace with your CSV file name
-    db_file = "diabetes.db"        # Replace with your desired output database file name
-    table_name = "diabetes"          # Replace with your desired table name
+    csv_file = "project 3\data\HR-Employee-Attrition.csv"  # Replace with your CSV file name
+    db_file = "project 3\HR-Employee-Attrition.db"        # Replace with your desired output database file name
+    table_name = "HR-Employee-Attrition"          # Replace with your desired table name
 
     csv_to_sqlite(csv_file, db_file, table_name)
     print(f"CSV file '{csv_file}' has been converted to SQLite database '{db_file}' in table '{table_name}'")
