@@ -70,6 +70,6 @@ https://forms.gle/NtQbbY2JfNHY86wu7
 
 Join us to get daily updates about internships and MeriSKILL.
  
- Telegram link -(https://www.t.me/meriskill ).
- Instagram link - ( https://www.instagram.com/meriskill )
- Linkedin- ( https://www.linkedin.com/company/meriskill )
+ Telegram link -(https://www.t.me/meriskill ).<br>
+ Instagram link - ( https://www.instagram.com/meriskill )<br>
+ Linkedin- ( https://www.linkedin.com/company/meriskill )<br>
