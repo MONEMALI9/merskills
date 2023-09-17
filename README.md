@@ -55,3 +55,21 @@ Kindly join Telegram and Instagram ASAP, as some of the information cannot given
 Feel free to reach out at infomeriskill@gmail.com
 Or DM us at our LinkedIn page.
 
+# Total Projects : 3
+
+## Title of the project 1: “Sales Data Analysis”
+## Title of the project 2: “Diabetes Patients”
+## Title of the project 3: “HR Analytics"
+
+### DATASET download Link -
+https://drive.google.com/drive/folders/13nArPqBJSwpVRAVyvN2qqvF-XiFby-Pq?
+usp=sharing
+
+#### Once You have completed your projects, Submit details to this given google form -
+https://forms.gle/NtQbbY2JfNHY86wu7
+
+Join us to get daily updates about internships and MeriSKILL.
+ 
+ Telegram link -(https://www.t.me/meriskill ).
+ Instagram link - ( https://www.instagram.com/meriskill )
+ Linkedin- ( https://www.linkedin.com/company/meriskill )
